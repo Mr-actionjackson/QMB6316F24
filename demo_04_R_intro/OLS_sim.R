@@ -27,8 +27,8 @@
 # Preparing the Workspace
 ##################################################
 
-# Clear workspace.
-rm(list=ls(all=TRUE))
+# Clear wo)rkspace.
+rm(list=ls(all=TRUE)
 
 # RStudio does its work in a working directory,
 # which is a folder on your computer.
